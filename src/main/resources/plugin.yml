@@ -1,0 +1,8 @@
+name: HorseManager
+version: '1.0-SNAPSHOT'
+main: de.mcterranova.horseManager.HorseManager
+api-version: '1.21'
+commands:
+  horse:
+    description: Horse Plugin Command
+    usage: /horse [stable/open]
